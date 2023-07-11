@@ -1,0 +1,46 @@
+* {
+padding: 0;
+margin: 0;
+
+}
+
+    h1{
+        background-color: black;
+        color: white;
+        padding: 15px;
+        margin: 15px;
+        text-align: left;
+        font-style:normal;
+        font-weight: bold;
+        font-family:monospace;
+    }
+
+    h2{
+        background-color: rgb(80, 5, 80);
+        color: white;
+        padding: 2px;
+        margin: 15px;
+        text-align: center;
+        font-style: italic;
+        font-weight: normal;
+        font-family: cursive;
+    }
+
+    h3{
+        background-color: rgb(135, 182, 229);
+        color: rgb(97, 12, 130);
+        padding: 2px;
+        margin: 15px;
+        text-align: right;
+        text-decoration: underline;
+        font-weight: bold;
+        font-family:cursive;
+    }
+
+    .Cloud{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .Colorchangeforcloud{
+        color: rgb(90, 228, 224);
+    }
